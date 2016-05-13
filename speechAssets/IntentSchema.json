@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "CallEmergencyIntent"
+    },
+    {
+      "intent": "TextAFriendIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

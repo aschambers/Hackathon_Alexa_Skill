@@ -1,0 +1,14 @@
+CallEmergencyIntent take everything
+CallEmergencyIntent steal my stuff
+CallEmergencyIntent leave me alone
+CallEmergencyIntent take whatever you want
+
+TextAFriendIntent you can have anything
+TextAFriendIntent my stuff is cheap
+TextAFriendIntent I am not rich
+TextAFriendIntent this is all I have
+TextAFriendIntent please don't hurt me
+TextAFriendIntent where's the cash
+
+AMAZON.StopIntent stop it
+AMAZON.StopIntent i have better things to do
