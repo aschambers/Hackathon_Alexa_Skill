@@ -1,5 +1,5 @@
-var accountSid = 'AC883c413db039cbc55d3b7561e5d1aa17',
-    authToken = 'a5ffb5ed9684382ff7b85e4a3d7c687b';
+var accountSid = 'REMOVE FOR SECURITY REASONS',
+    authToken = 'REMOVE FOR SECURITY REASONS';
 var client = require('twilio')(accountSid, authToken);
 
 function textMe(to, fromNum, messageBody, callback) {
