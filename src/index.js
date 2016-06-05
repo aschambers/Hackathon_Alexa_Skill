@@ -15,7 +15,7 @@
 /**
  * App ID for the skill
  */
-var APP_ID = 'amzn1.echo-sdk-ams.app.fef17d48-31fd-4be5-8186-22fe501fd380'; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID = 'REMOVE FOR SECURITY REASONS'; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 
 /**
  * The AlexaSkill prototype and helper functions
