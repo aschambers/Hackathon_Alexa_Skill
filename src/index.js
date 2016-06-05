@@ -25,10 +25,10 @@ var AlexaSkill = require('./AlexaSkill');
 // Let's import the twilio functions
 var twilioClient = require('./caller');
 // The to and from numbers for Twilio
-var toNum = '+14088919249',
-    fromNum = '+15735355776',
+var toNum = '+REMOVE NUMBER FOR SECURITY REASONS',
+    fromNum = '+REMOVE NUMBER FOR SECURITY REASONS',
     twiMLUrl = 'https://demo.twilio.com/welcome/voice/';
-    testNum = '+15005550006';
+    testNum = '+REMOVE NUMBER FOR SECURITY REASONS';
 
 /**
  * HelloWorld is a child of AlexaSkill.
