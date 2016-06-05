@@ -15,7 +15,7 @@
 /**
  * App ID for the skill
  */
-var APP_ID = 'amzn1.echo-sdk-ams.app.fef17d48-31fd-4be5-8186-22fe501fd380'; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID = 'amzn1.echo-sdk-ams.app.REMOVE FOR SECURITY REASONS'; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 
 /**
  * The AlexaSkill prototype and helper functions
@@ -25,10 +25,10 @@ var AlexaSkill = require('./AlexaSkill');
 // Let's import the twilio functions
 var twilioClient = require('./caller');
 // The to and from numbers for Twilio
-var toNum = '+14088919249',
-    fromNum = '+15735355776',
+var toNum = '+REMOVED',
+    fromNum = '+REMOVED',
     twiMLUrl = 'https://demo.twilio.com/welcome/voice/';
-    testNum = '+15005550006';
+    testNum = '+REMOVED';
 
 /**
  * HelloWorld is a child of AlexaSkill.
